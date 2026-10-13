@@ -1,0 +1,7 @@
+Score,Optical removed,SAR removed
+D_pred (predicted dependency),0.696,0.699
+Class-average D_pred,0.598,0.685
+1 - max softmax,0.582,0.68
+Normalised entropy,0.578,0.664
+1 - top-two margin,0.583,0.69
+Rank average of D_pred and entropy,0.672,0.742

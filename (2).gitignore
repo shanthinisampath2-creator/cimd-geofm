@@ -1,0 +1,13 @@
+# data, caches and model weights are not stored in the repository
+*.tif
+*.npy
+*.npz
+*.pt
+*.pth
+*.zip
+**/WHU_OPT_SAR_EXTRACTED/
+**/DFC2020/
+**/*_CACHE_*/
+**/checkpoints/
+.ipynb_checkpoints/
+__pycache__/

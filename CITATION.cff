@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "CIMD: Class-Conditional Interventional Modality Dependency for optical-SAR land-cover mapping"
+type: software
+license: MIT
+authors:
+  - given-names: Menaga
+    family-names: "[Surname]"
+    affiliation: "SRM Institute of Science and Technology"
+repository-code: "[GitHub URL]"
+preferred-citation:
+  type: article
+  title: "Which classes fail when a sensor is lost? Class-conditional interventional modality dependency for optical-SAR land-cover mapping"
+  authors:
+    - given-names: Menaga
+      family-names: "[Surname]"
+  journal: "Geodata and AI"
+  year: 2026

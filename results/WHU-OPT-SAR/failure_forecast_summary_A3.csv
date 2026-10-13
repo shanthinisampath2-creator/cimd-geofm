@@ -1,0 +1,9 @@
+test,value
+"Class level: D_pred vs IoU drop (Spearman, 12 points)",0.37762237762237766
+   optical removed,0.6571428571428573
+   SAR removed,-0.48571428571428577
+"Instance level: D_pred vs recall drop (Spearman, n=34920)",0.3299110406216584
+   mean WITHIN-class Spearman (beyond class identity),0.14684331599297648
+"Failure detection AUROC (recall drop > 0.20), failure rate 11.4%",0.7960250074848184
+   optical removed,0.7296833665153241
+   SAR removed,0.7091255574473179

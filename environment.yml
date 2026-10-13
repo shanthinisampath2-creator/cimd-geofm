@@ -1,0 +1,20 @@
+# conda env create -f environment.yml
+# Then install the CUDA build of PyTorch with pip (see README), followed by timm and torchgeo.
+name: cimd
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - pillow
+  - rasterio
+  - tqdm
+  - ipywidgets
+  - ipykernel
+  - jupyter
+  - pip
+variables:
+  KMP_DUPLICATE_LIB_OK: "TRUE"

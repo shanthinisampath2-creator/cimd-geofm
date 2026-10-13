@@ -1,0 +1,9 @@
+Class,D optical,D_pred optical,IoU drop optical removed,D SAR,D_pred SAR,IoU drop SAR removed
+forest,0.79,0.7,0.142,0.58,0.49,0.122
+shrubland,0.79,0.58,0.207,0.32,0.35,0.018
+barren,0.75,0.66,0.17,0.56,0.47,0.005
+cropland,0.74,0.72,0.196,0.55,0.46,-0.022
+grassland,0.74,0.59,0.164,0.58,0.38,-0.023
+urban,0.67,0.74,0.086,0.53,0.55,0.008
+wetland,0.64,0.73,0.087,0.48,0.5,0.039
+water,0.42,0.44,0.009,0.3,0.3,0.002

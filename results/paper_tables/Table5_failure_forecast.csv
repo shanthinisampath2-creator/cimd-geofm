@@ -1,0 +1,5 @@
+Dataset,Sensor removed,Failure rate,AUROC D_pred,AUROC class-average D,AUROC oracle class prior,Gain (95% CI),Caught top 30%: D_pred / class average
+WHU-OPT-SAR,optical,18.5%,0.73,0.647,0.68,"+0.083 (0.072, 0.094)",53% / 41%
+WHU-OPT-SAR,sar,4.3%,0.709,0.598,0.625,"+0.111 (0.092, 0.130)",55% / 40%
+DFC2020,optical,33.1%,0.698,0.599,0.76,"+0.099 (0.089, 0.109)",46% / 35%
+DFC2020,sar,5.1%,0.698,0.685,0.77,"+0.014 (-0.003, 0.033)",53% / 49%
